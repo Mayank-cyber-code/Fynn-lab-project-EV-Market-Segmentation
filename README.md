@@ -92,4 +92,15 @@ scikit-learn (for clustering)
 plotly (for interactive visualizations)
 
 
+Repository Structure
+
+File / Folder	Description
+EV MARKET SEGMENTATION.pdf	Final report summarizing methodology, findings, and recommendations.
+EV Market Segmentation.ipynb	Main Jupyter notebook with data cleaning, clustering, and analysis.
+EV Maker by Place.csv	Dataset mapping EV manufacturers to different geographic regions.
+Indian automobile buying behaviour study 1.0.csv	Primary dataset with behavioral and salary attributes.
+README.md	Project overview and usage guide (you’re reading it!).
+
+
+
 
